@@ -1,13 +1,8 @@
 {
-  "name": "myMEANapplication",
-  "version": "1.0.0",
-  "dependencies": {
-    "express": "^4.13.3",
-    "gulp": "latest"
-  },
-  "description": "Test",
+  "name": "Capstone",
+  "version": "0.0.0",
+  "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,10 +10,13 @@
     "type": "git",
     "url": "https://github.com/TrevorHawkins13/Capstone.git"
   },
-  "author": "Trevor Hawkins",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TrevorHawkins13/Capstone/issues"
   },
-  "homepage": "https://github.com/TrevorHawkins13/Capstone"
+  "homepage": "https://github.com/TrevorHawkins13/Capstone",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
